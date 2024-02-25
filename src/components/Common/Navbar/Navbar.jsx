@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <nav className="bg-white border-gray-200 dark:bg-gray-900">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-0.5">
         <a
           href="https://www.bursa.bel.tr/"
           className="flex items-center space-x-3 rtl:space-x-reverse"
