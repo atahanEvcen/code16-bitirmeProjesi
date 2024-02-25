@@ -50,6 +50,9 @@ export const MapProvider = ({ children }) => {
   );
 };
 
+export default MapContext;
+
 export const useMap = () => {
   return useContext(MapContext);
 };
+
