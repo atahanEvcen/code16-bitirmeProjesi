@@ -1,13 +1,15 @@
-import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
-import "./index.css";
-import { MapProvider } from "./contexts/mapContext.jsx";
-import { LayerProvider } from "./contexts/LayerContext.jsx";
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import { MapProvider } from './contexts/mapContext';
+import { LayerProvider } from './contexts/LayerContext';
+import 'maplibre-gl/dist/maplibre-gl.css';
 
-ReactDOM.createRoot(document.getElementById("root")).render(
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
   <MapProvider>
     <LayerProvider>
       <App />
     </LayerProvider>
   </MapProvider>
-);
+); 
