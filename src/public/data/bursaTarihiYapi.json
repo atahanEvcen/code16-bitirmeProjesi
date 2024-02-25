@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "name": "bursaTarihiYapi",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160002,
+        "tarihiYapi_ad": "Ulu Cami",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.kulturportali.gov.tr/contents/images/Bursa%20Ulu%20Camii%20Murat%20%C3%96CAL%20(24).JPG",
+        "kimlikNo_mah": 11218,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "NALBANTOGLU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.061864856592639, 40.183933469769499]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160001,
+        "tarihiYapi_ad": "Dikilitas (Obelisk)",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Dikilitas",
+        "kimlikNo_ilce": 1420,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/03/dji_0219_large.jpg",
+        "kimlikNo_mah": 183931,
+        "tarihiYapi_3D_Link": "https://ion.cesium.com/stories/viewer/?id=09df6819-22f6-4f1d-a6d3-fab0174fa050",
+        "bursa_ilce_ad": "IZNIK",
+        "bursa_mahalle_ad": "INIKLI"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.701969991981759, 40.487577077145907]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160012,
+        "tarihiYapi_ad": "Sungur Pasa Turbesi",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Turbe",
+        "kimlikNo_ilce": 1411,
+        "gorsel_link": "https://fastly.4sqi.net/img/general/200x200/47942377_BRJwcO-Es-S9tR4h2NS4wdqlOxARGyqCAvGjFr0cyBk.jpg",
+        "kimlikNo_mah": 183829,
+        "bursa_ilce_ad": "INEGOL",
+        "bursa_mahalle_ad": "SUNGURPASA"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.483571063748624, 40.183247653851048]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160003,
+        "tarihiYapi_ad": "Emir Sultan Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1859,
+        "gorsel_link": "https://turkeyoutdoor.org/wp-content/uploads/2023/09/Emir-Sultan-Camii.jpg",
+        "kimlikNo_mah": 11271,
+        "bursa_ilce_ad": "YILDIRIM",
+        "bursa_mahalle_ad": "EMIRSULTAN"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.081029910817907, 40.181147739581107]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160004,
+        "tarihiYapi_ad": "Yesil Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1859,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2020/09/yesil-kuliyesi-6_large.jpg",
+        "kimlikNo_mah": 11291,
+        "bursa_ilce_ad": "YILDIRIM",
+        "bursa_mahalle_ad": "YESIL"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.074596068448759, 40.182199850693706]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160017,
+        "tarihiYapi_ad": "Emir Han",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Han",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/03/rb_n5300_large.jpg",
+        "kimlikNo_mah": 11218,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "NALBANTOGLU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.06231288086666, 40.184511263702916]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160018,
+        "tarihiYapi_ad": "İpek Han",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Han",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.kulturportali.gov.tr/repoKulturPortali/large/18032013/1a224fa9-67f8-44eb-8889-d5fd29d0c96c.jpg?format=jpg&quality=50",
+        "kimlikNo_mah": 11234,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "SEHREKUSTU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.060938379469757, 40.185197265870436]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160019,
+        "tarihiYapi_ad": "Pirinc Han",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Han",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://images.bursadabugun.com/haber/2021/05/03/1408703-pirinc-han-kapatiliyor-mu-ozel-haber-608f8cb1660d8.jpg",
+        "kimlikNo_mah": 11234,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "SEHREKUSTU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.060272899681976, 40.185739710072987]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160020,
+        "tarihiYapi_ad": "Geyve Han",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Han",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/02/rb_n4931_large.jpg",
+        "kimlikNo_mah": 11218,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "NALBANTOGLU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.063011873809128, 40.185155460366737]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160021,
+        "tarihiYapi_ad": "Koza Han",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Han",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.olay.com.tr/wp-content/uploads/2022/06/kozahan.jpg",
+        "kimlikNo_mah": 11218,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "NALBANTOGLU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.063522333172291, 40.184360650295716]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160005,
+        "tarihiYapi_ad": "Gazi Orhan Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.kulturportali.gov.tr/repoKulturPortali/large/08022013/7ecc68ce-53ac-4480-9cf3-646b62250cd4.JPG?format=jpg&quality=50",
+        "kimlikNo_mah": 11218,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "NALBANTOGLU"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.064104070987447, 40.183952748140442]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160011,
+        "tarihiYapi_ad": "Tirilye Fatih Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1530,
+        "gorsel_link": "https://cdn.kulturenvanteri.com/wp-content/uploads/2019/12/Tirilye-Fatih-Camii-1.jpg",
+        "kimlikNo_mah": 184223,
+        "bursa_ilce_ad": "MUDANYA",
+        "bursa_mahalle_ad": "TIRILYE"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[28.796844512639161, 40.39305277947075]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160006,
+        "tarihiYapi_ad": "Muradiye Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/03/muradiye-cami-turizm-tanitma-sube-1_1_large_large.jpg",
+        "kimlikNo_mah": 11217,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "MURADIYE"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.046502304421153, 40.191044584631868]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160007,
+        "tarihiYapi_ad": "Yildirim Beyazit Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1859,
+        "gorsel_link": "https://live.staticflickr.com/4046/4197339753_e32774095c_b.jpg",
+        "kimlikNo_mah": 11305,
+        "bursa_ilce_ad": "YILDIRIM",
+        "bursa_mahalle_ad": "YILDIRIM"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.082430906016224, 40.187482802169249]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160008,
+        "tarihiYapi_ad": "Hamzabey Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.bursa.com/uploads/75/755jpg-95485.jpg",
+        "kimlikNo_mah": 11191,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "HAMZABEY"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.041677771160956, 40.192200371601196]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160009,
+        "tarihiYapi_ad": "İznik Yesil Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1420,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/03/rb_n6124_large.jpg",
+        "kimlikNo_mah": 11421,
+        "bursa_ilce_ad": "IZNIK",
+        "bursa_mahalle_ad": "YESIL CAMII"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.726884775392449, 40.429734670484777]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160010,
+        "tarihiYapi_ad": "Haci Ozbek Camii",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Cami",
+        "kimlikNo_ilce": 1420,
+        "gorsel_link": "https://okuryazarim.com/wp-content/uploads/2019/08/Hac%C4%B1-%C3%96zbek-Camii.jpg",
+        "kimlikNo_mah": 11416,
+        "bursa_ilce_ad": "IZNIK",
+        "bursa_mahalle_ad": "ESREFZADE"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.723179972959578, 40.429348910784746]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160013,
+        "tarihiYapi_ad": "Osman Gazi & Orhan Gazi Turbeleri",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Turbe",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.gotobursa.com.tr/uploads/2021/03/rb_n5150_large.jpg",
+        "kimlikNo_mah": 11221,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "OSMANGAZI"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.057514934067687, 40.186776703558756]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160014,
+        "tarihiYapi_ad": "Sultan Turbeleri",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Turbe",
+        "kimlikNo_ilce": 1832,
+        "gorsel_link": "https://www.dergibursa.com.tr/wp-content/uploads/2015/08/2_muradiye.jpg",
+        "kimlikNo_mah": 11217,
+        "bursa_ilce_ad": "OSMANGAZI",
+        "bursa_mahalle_ad": "MURADIYE"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.04615011698321, 40.190573423802235]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160015,
+        "tarihiYapi_ad": "Veysel Karani Turbesi",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Turbe",
+        "kimlikNo_ilce": 1859,
+        "gorsel_link": "https://diyanethabercomtr.teimg.com/crop/1280x720/diyanethaber-com-tr/images/haberler/2021/05/veysel_karani_kimdir_h16311_f03b2.jpg",
+        "kimlikNo_mah": 11240,
+        "bursa_ilce_ad": "YILDIRIM",
+        "bursa_mahalle_ad": "VEYSEL KARANI"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.083697906707158, 40.211925164193765]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tarihiYapi_no": 160016,
+        "tarihiYapi_ad": "Abdulvahap Sancaktari Turbesi",
+        "tarihiYapi_kategori": "Tekil Yapi",
+        "tarihiYapi_tur": "Turbe",
+        "kimlikNo_ilce": 1420,
+        "gorsel_link": "https://tarihgezisi.com/wp-content/uploads/2020/07/IMG_1177.jpg",
+        "kimlikNo_mah": 11421,
+        "bursa_ilce_ad": "IZNIK",
+        "bursa_mahalle_ad": "YESIL CAMII"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [[29.737583236885083, 40.433650308741782]]
+      }
+    }
+  ]
+}
