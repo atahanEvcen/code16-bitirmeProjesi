@@ -1,4 +1,4 @@
-import { MapProvider } from "../../contexts/mapContext";
+import { MapProvider } from "../../contexts/MapContext";
 
 
 function MapContainer({children}) {

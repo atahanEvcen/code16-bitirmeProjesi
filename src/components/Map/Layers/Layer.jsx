@@ -4,7 +4,7 @@ import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.js"
 
 import { useEffect } from "react";
-import { useMap } from "../../../contexts/mapContext";
+import { useMap } from "../../../contexts/MapContext";
 import { useLayers } from "../../../contexts/LayerContext";
 
 import bursaTarihiYapi from "../../../public/data/bursaTarihiYapi.json";

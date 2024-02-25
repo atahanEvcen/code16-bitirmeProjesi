@@ -2,7 +2,7 @@
 import "maplibre-gl/dist/maplibre-gl.css";
 import "./Map.css";
 import { useEffect, useRef } from "react";
-import { useMap } from "../../contexts/mapContext";
+import { useMap } from "../../contexts/MapContext";
 import maplibregl from "maplibre-gl";
 import BasemapSwitch from "./BasemapSwitch/BasemapSwitch";
 import { useLayers } from "../../contexts/LayerContext";

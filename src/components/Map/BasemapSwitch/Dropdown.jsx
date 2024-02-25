@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import DropdownOption from "./DropdownOptions";
-import { useMap } from "../../../contexts/mapContext";
+import { useMap } from "../../../contexts/MapContext";
 
 function Dropdown() {
   const { basemaps, selectedBasemap, setSelectedBasemap, setMapParams, activeMapParams,mapParams  } = useMap();
