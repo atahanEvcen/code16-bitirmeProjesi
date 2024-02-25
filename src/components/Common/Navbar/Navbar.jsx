@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <nav className="bg-white border-gray-200 dark:bg-gray-900">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto">
         <a
           href="https://www.bursa.bel.tr/"
           className="flex items-center space-x-3 rtl:space-x-reverse"
@@ -14,10 +14,13 @@ function Navbar() {
             className="h-8"
             alt="Flowbite Logo"
           />
-          <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Bursa Kültür Envanteri Haritası
+          <span className=" text-2xl font-semibold whitespace-nowrap dark:text-white">
+            Bursa Kültür Envanteri Haritası <br/>
+            <span className="self-center text-xs whitespace-nowrap dark:text-white">Hazırlayan: Harita Müh. Atahan EVCEN</span>
           </span>
+          <br />
         </a>
+
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
           <button
             type="button"
