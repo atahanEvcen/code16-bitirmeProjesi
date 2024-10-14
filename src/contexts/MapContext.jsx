@@ -9,7 +9,7 @@ export const MapProvider = ({ children }) => {
 
   const [basemaps, setBasemaps] = useState([
     { value: "outdoors", image: outdoors, label: "Outdoor" },
-    { value: "alidade_satellite", image: satellite, label: "Satellite" }
+    { value: "alidade_satellite", image: satellite, label: "Satellite"}
   ]);
 
 
