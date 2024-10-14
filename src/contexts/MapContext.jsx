@@ -8,14 +8,14 @@ const MapContext = createContext();
 export const MapProvider = ({ children }) => {
 
   const [basemaps, setBasemaps] = useState([
-    { value: "outdoors", image: outdoors, label: "Outdoor" },
-    { value: "alidade_satellite", image: satellite, label: "Satellite"}
+    { value: "alidade_smooth_dark", image: outdoors, label: "Dark" },
+    { value: "alidade_smooth", image: satellite, label: "Light"}
   ]);
 
 
   const mapRef = useRef(null)
 
-  const [selectedBasemap, setSelectedBasemap] = useState("alidade_satellite");
+  const [selectedBasemap, setSelectedBasemap] = useState("alidade_smooth");
   
   const [mapParams, setMapParams] = useState({
     lat : 40.1360,
