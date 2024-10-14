@@ -1,4 +1,4 @@
-import outdoors from "./outdoors.png"
-import satellite from "./satellite.png"
+import alidade_smooth_dark from "./dark.png"
+import alidade_smooth from "./light.png"
 
-export {outdoors, satellite}
+export {alidade_smooth_dark, alidade_smooth}

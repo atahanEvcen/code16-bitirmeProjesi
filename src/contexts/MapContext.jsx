@@ -1,15 +1,15 @@
 /* eslint-disable react/prop-types */
 
 import { createContext, useContext, useRef, useState } from "react";
-import {outdoors, satellite} from "../public/assets/basemaps";
+import {alidade_smooth_dark, alidade_smooth} from "../public/assets/basemaps";
 
 const MapContext = createContext();
 
 export const MapProvider = ({ children }) => {
 
   const [basemaps, setBasemaps] = useState([
-    { value: "alidade_smooth_dark", image: outdoors, label: "Dark" },
-    { value: "alidade_smooth", image: satellite, label: "Light"}
+    { value: "alidade_smooth_dark", image: alidade_smooth_dark, label: "Dark" },
+    { value: "alidade_smooth", image: alidade_smooth, label: "Light"}
   ]);
 
 
