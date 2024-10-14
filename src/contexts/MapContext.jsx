@@ -15,7 +15,7 @@ export const MapProvider = ({ children }) => {
 
   const mapRef = useRef(null)
 
-  const [selectedBasemap, setSelectedBasemap] = useState("outdoors");
+  const [selectedBasemap, setSelectedBasemap] = useState("satellite");
   
   const [mapParams, setMapParams] = useState({
     lat : 40.1360,
