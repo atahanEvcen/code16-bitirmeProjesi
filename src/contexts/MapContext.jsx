@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 
 import { createContext, useContext, useRef, useState } from "react";
-import {alidade_smooth_dark, alidade_smooth} from "../public/assets/basemaps";
+import {alidade_smooth_dark, alidade_smooth,satellite} from "../public/assets/basemaps";
 
 const MapContext = createContext();
 
@@ -9,7 +9,8 @@ export const MapProvider = ({ children }) => {
 
   const [basemaps, setBasemaps] = useState([
     { value: "alidade_smooth_dark", image: alidade_smooth_dark, label: "Dark" },
-    { value: "alidade_smooth", image: alidade_smooth, label: "Light"}
+    { value: "alidade_smooth", image: alidade_smooth, label: "Light"},
+    { value: "alidade_satellite", image: satellite, label: "Satellite"}
   ]);
 
 
@@ -29,7 +30,6 @@ export const MapProvider = ({ children }) => {
     zoom : 8,
     style : `https://tiles.stadiamaps.com/styles/${selectedBasemap}.json`
   })
-  
 
   const data = {
     mapRef,
